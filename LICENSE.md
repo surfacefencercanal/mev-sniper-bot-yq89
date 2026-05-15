@@ -1,4 +1,4 @@
-# 
+# Enhance your trading with high-frequency MEV sniper bot | slippage-control + trailing-stop, the #1 MEV sniper bot. Includes slippage-control and trailing-stop for a faster and
 
 
 
